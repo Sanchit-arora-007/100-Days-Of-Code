@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="765b5bae-ee65-42a3-adc2-4f9f22dae00a" name="Changes" comment="100 Days Of Code" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sanchit-arora-007"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sanchit-arora-007/100-Days-Of-Code.git",
+    "accountId": "10804503-07ad-4c3f-83d9-f2f96783b01d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="32N41H6ACtBYBnT16C7c64Im1HC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.100_Days_Of_Code_Day_2_q2.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_3_q5.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_3_q6.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_4_q7.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_4_q8.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_5_q10.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_5_q9.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_6_q11.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_6_q12.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_7_q13.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_7_q14.c.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Computer Shiksha/Desktop/100_Days_Of_Code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Computer Shiksha\Desktop\100_Days_Of_Code\Day 7" />
+      <recent name="C:\Users\Computer Shiksha\Desktop\100_Days_Of_Code\Day 6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.100_Days_Of_Code_Day_7_q14.c">
+    <configuration name="100_Days_Of_Code_Day_5_q10.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_5_q10.c" CONFIG_NAME="100_Days_Of_Code_Day_5_q10.c">
+      <option name="sourceFile" value="100_Days_Of_Code_Day_5_q10.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="100_Days_Of_Code_Day_6_q11.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_6_q11.c" CONFIG_NAME="100_Days_Of_Code_Day_6_q11.c">
+      <option name="sourceFile" value="Day 6\100_Days_Of_Code_Day_6_q11.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="100_Days_Of_Code_Day_6_q12.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_6_q12.c" CONFIG_NAME="100_Days_Of_Code_Day_6_q12.c">
+      <option name="sourceFile" value="Day 6\100_Days_Of_Code_Day_6_q12.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="100_Days_Of_Code_Day_7_q13.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_7_q13.c" CONFIG_NAME="100_Days_Of_Code_Day_7_q13.c">
+      <option name="sourceFile" value="Day 7\100_Days_Of_Code_Day_7_q13.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="100_Days_Of_Code_Day_7_q14.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_7_q14.c" CONFIG_NAME="100_Days_Of_Code_Day_7_q14.c">
+      <option name="sourceFile" value="Day 7\100_Days_Of_Code_Day_7_q14.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_7_q14.c" />
+        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_7_q13.c" />
+        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_6_q12.c" />
+        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_6_q11.c" />
+        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_5_q10.c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="765b5bae-ee65-42a3-adc2-4f9f22dae00a" name="Changes" comment="" />
+      <created>1757247479376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757247479376</updated>
+      <workItem from="1757247480955" duration="2168000" />
+      <workItem from="1757254739319" duration="2017000" />
+    </task>
+    <task id="LOCAL-00001" summary="100 Days Of Code">
+      <option name="closed" value="true" />
+      <created>1757255146089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757255146089</updated>
+    </task>
+    <task id="LOCAL-00002" summary="100 Days Of Code">
+      <option name="closed" value="true" />
+      <created>1757255164161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757255164161</updated>
+    </task>
+    <task id="LOCAL-00003" summary="100 Days Of Code">
+      <option name="closed" value="true" />
+      <created>1757255178787</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757255178787</updated>
+    </task>
+    <task id="LOCAL-00004" summary="100 Days Of Code">
+      <option name="closed" value="true" />
+      <created>1757255771640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757255771640</updated>
+    </task>
+    <task id="LOCAL-00005" summary="100 Days Of Code">
+      <option name="closed" value="true" />
+      <created>1757255795110</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757255795110</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="100 Days Of Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="100 Days Of Code" />
+  </component>
+</project>
