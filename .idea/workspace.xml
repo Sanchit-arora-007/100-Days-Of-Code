@@ -15,7 +15,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="765b5bae-ee65-42a3-adc2-4f9f22dae00a" name="Changes" comment="100 Days Of Code" />
+    <list default="true" id="765b5bae-ee65-42a3-adc2-4f9f22dae00a" name="Changes" comment="100 Days Of Code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,29 +30,87 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sanchit-arora-007"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sanchit-arora-007&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sanchit-arora-007/100-Days-Of-Code.git",
-    "accountId": "10804503-07ad-4c3f-83d9-f2f96783b01d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sanchit-arora-007/100-Days-Of-Code.git&quot;,
+    &quot;accountId&quot;: &quot;10804503-07ad-4c3f-83d9-f2f96783b01d&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Day 10/100_Days_Of_Code_Day_10_q19.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 11/100_Days_Of_Code_Day_11_q21.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 8/100_Days_Of_Code_Day_8_q15.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 8/100_Days_Of_Code_Day_8_q16.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 9/100_Days_Of_Code_Day_9_q17.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 9/100_Days_Of_Code_Day_9_q18.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="32N41H6ACtBYBnT16C7c64Im1HC" />
+  <component name="ProjectStatusUIService"><![CDATA[{
+  "uiKindId": "Widget"
+}]]></component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.100_Days_Of_Code_Day_10_q19.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_10_q20.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_11_q21.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_11_q22.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_12_q23.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_12_q24.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_13_q25.cpp.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_13_q26.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_14_q27.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_14_q28.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_15_q29.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_15_q30.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_16_q31.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_16_q32.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_17_q33.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_17_q34.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_18_q35.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_18_q36.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_19_q37.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_19_q38.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_20_q39.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_20_q40.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_21_q41.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_21_q42.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_22_q43.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_22_q44.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_23_q45.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_23_q46.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_24_q47.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_24_q48.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_25_q49.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_25_q50.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_26_q51.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_26_q52.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_27_q53.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_27_q54.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_28_q55.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_28_q56.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_29_q58.c.executor": "Run",
     "C/C++ File.100_Days_Of_Code_Day_2_q2.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_30_q59.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_30_q60.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_31_q61.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_31_q62.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_32_q63.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_32_q64.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_33_q65.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_33_q66.c.executor": "Run",
     "C/C++ File.100_Days_Of_Code_Day_3_q5.c.executor": "Run",
     "C/C++ File.100_Days_Of_Code_Day_3_q6.c.executor": "Run",
     "C/C++ File.100_Days_Of_Code_Day_4_q7.c.executor": "Run",
@@ -61,13 +121,19 @@
     "C/C++ File.100_Days_Of_Code_Day_6_q12.c.executor": "Run",
     "C/C++ File.100_Days_Of_Code_Day_7_q13.c.executor": "Run",
     "C/C++ File.100_Days_Of_Code_Day_7_q14.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_8_q15.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_8_q16.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_9_q17.c.executor": "Run",
+    "C/C++ File.100_Days_Of_Code_Day_9_q18.cpp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Computer Shiksha/Desktop/100_Days_Of_Code",
     "node.js.detected.package.eslint": "true",
@@ -80,48 +146,51 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Computer Shiksha\Desktop\100_Days_Of_Code\Day 7" />
-      <recent name="C:\Users\Computer Shiksha\Desktop\100_Days_Of_Code\Day 6" />
+      <recent name="C:\Users\Computer Shiksha\Desktop\100_Days_Of_Code\Day 33" />
+      <recent name="C:\Users\Computer Shiksha\Desktop\100_Days_Of_Code\Day 32" />
+      <recent name="C:\Users\Computer Shiksha\Desktop\100_Days_Of_Code\Day 31" />
+      <recent name="C:\Users\Computer Shiksha\Desktop\100_Days_Of_Code\Day 30" />
+      <recent name="C:\Users\Computer Shiksha\Desktop\100_Days_Of_Code\Day 29" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.100_Days_Of_Code_Day_7_q14.c">
-    <configuration name="100_Days_Of_Code_Day_5_q10.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_5_q10.c" CONFIG_NAME="100_Days_Of_Code_Day_5_q10.c">
-      <option name="sourceFile" value="100_Days_Of_Code_Day_5_q10.c" />
+  <component name="RunManager" selected="C/C++ File.100_Days_Of_Code_Day_33_q66.c">
+    <configuration name="100_Days_Of_Code_Day_31_q62.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_31_q62.c" CONFIG_NAME="100_Days_Of_Code_Day_31_q62.c">
+      <option name="sourceFile" value="Day 31\100_Days_Of_Code_Day_31_q62.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="100_Days_Of_Code_Day_6_q11.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_6_q11.c" CONFIG_NAME="100_Days_Of_Code_Day_6_q11.c">
-      <option name="sourceFile" value="Day 6\100_Days_Of_Code_Day_6_q11.c" />
+    <configuration name="100_Days_Of_Code_Day_32_q63.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_32_q63.c" CONFIG_NAME="100_Days_Of_Code_Day_32_q63.c">
+      <option name="sourceFile" value="Day 32\100_Days_Of_Code_Day_32_q63.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="100_Days_Of_Code_Day_6_q12.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_6_q12.c" CONFIG_NAME="100_Days_Of_Code_Day_6_q12.c">
-      <option name="sourceFile" value="Day 6\100_Days_Of_Code_Day_6_q12.c" />
+    <configuration name="100_Days_Of_Code_Day_32_q64.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_32_q64.c" CONFIG_NAME="100_Days_Of_Code_Day_32_q64.c">
+      <option name="sourceFile" value="Day 32\100_Days_Of_Code_Day_32_q64.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="100_Days_Of_Code_Day_7_q13.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_7_q13.c" CONFIG_NAME="100_Days_Of_Code_Day_7_q13.c">
-      <option name="sourceFile" value="Day 7\100_Days_Of_Code_Day_7_q13.c" />
+    <configuration name="100_Days_Of_Code_Day_33_q65.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_33_q65.c" CONFIG_NAME="100_Days_Of_Code_Day_33_q65.c">
+      <option name="sourceFile" value="Day 33\100_Days_Of_Code_Day_33_q65.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="100_Days_Of_Code_Day_7_q14.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_7_q14.c" CONFIG_NAME="100_Days_Of_Code_Day_7_q14.c">
-      <option name="sourceFile" value="Day 7\100_Days_Of_Code_Day_7_q14.c" />
+    <configuration name="100_Days_Of_Code_Day_33_q66.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="100_Days_Of_Code" TARGET_NAME="100_Days_Of_Code_Day_33_q66.c" CONFIG_NAME="100_Days_Of_Code_Day_33_q66.c">
+      <option name="sourceFile" value="Day 33\100_Days_Of_Code_Day_33_q66.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_7_q14.c" />
-        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_7_q13.c" />
-        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_6_q12.c" />
-        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_6_q11.c" />
-        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_5_q10.c" />
+        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_33_q66.c" />
+        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_33_q65.c" />
+        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_32_q64.c" />
+        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_32_q63.c" />
+        <item itemvalue="C/C++ File.100_Days_Of_Code_Day_31_q62.c" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +202,9 @@
       <option name="presentableId" value="Default" />
       <updated>1757247479376</updated>
       <workItem from="1757247480955" duration="2168000" />
-      <workItem from="1757254739319" duration="2017000" />
+      <workItem from="1757254739319" duration="2508000" />
+      <workItem from="1757257332704" duration="3852000" />
+      <workItem from="1758562805421" duration="10686000" />
     </task>
     <task id="LOCAL-00001" summary="100 Days Of Code">
       <option name="closed" value="true" />
@@ -180,6 +251,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="100 Days Of Code" />
